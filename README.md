@@ -100,6 +100,8 @@ Will be updated, once projects are built.
 ## 📞 Reporting a Bug or Issue
 Create a new [Issue](https://github.com/Fableverse/base-template/issues) directly in this repository utilizing the "Bug Report" template.
 
+For issues related to security or vulnerabilities, please do not create an issue. Instead, reach out to security@fableverse.com with all the details around reproducing it, screenshots, and any other useful information. 
+
 ## 🤝 Contributing
 Please reference the [Code of Conduct](https://github.com/Fableverse/base-template/blob/main/CODE_OF_CONDUCT.md) for this repository.
 
