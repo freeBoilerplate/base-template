@@ -94,9 +94,6 @@ To run the jest tests in the project, run:
 npm test
 ```
 
-## 🏠 Projects using this template
-Will be updated, once projects are built.
-
 ## 📞 Reporting a Bug or Issue
 Create a new [Issue](https://github.com/Fableverse/base-template/issues) directly in this repository utilizing the "Bug Report" template.
 
